@@ -1,3 +1,4 @@
+{name: "",age: "",attitude:""}
 def fourth_challenge
   epic_tragedy = {
    :montague => {
